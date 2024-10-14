@@ -1,4 +1,4 @@
-## Ola, seja bem vindo 👋
+# Hello, welcome👋
 
 - 🔭 I’m currently working on E2E test automation for systems at a startup.
 - 🌱 I’m currently learning Postman for API testing.
