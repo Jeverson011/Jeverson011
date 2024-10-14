@@ -7,7 +7,6 @@
 - 💬 Ask me about test automation, QA practices, Java development, and agile methodologies.
 - ⚡ Fun fact: I enjoy working on projects that involve process optimization and solutions with code and data analysis.
 - 🚴‍♂️ More about me: I enjoy training Jiu-Jitsu, Muay Thai, and cycling.
-- 📫 How to reach me: LinkedIn
 
 
 <div style="display: inline_block"><br>
