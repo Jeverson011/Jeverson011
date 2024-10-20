@@ -8,13 +8,13 @@
 - ⚡ Fun fact: I enjoy working on projects that involve process optimization and solutions with code and data analysis.
 - 🚴‍♂️ More about me: I enjoy training Jiu-Jitsu, Muay Thai, and cycling.
 
-🔭 Atualmente estou trabalhando na automação de testes E2E para sistemas em startups.
-🌱 Atualmente estou aprendendo Postman para testes de API.
-👯 Procuro colaborar em projetos de garantia de qualidade, principalmente aqueles que envolvem automação de testes.
-🤔 Estou procurando ajuda com estratégias e ferramentas avançadas de automação de testes.
-💬 Pergunte-me sobre automação de testes, práticas de controle de qualidade, desenvolvimento Java e metodologias ágeis.
-⚡ Curiosidade: gosto de trabalhar em projetos que envolvam otimização de processos e soluções com análise de código e dados.
-🚴‍♂️ Mais sobre mim: Gosto de treinar Jiu-Jitsu, Muay Thai e andar de bicicleta.
+- 🔭 Atualmente estou trabalhando na automação de testes E2E para sistemas em startups.
+- 🌱 Atualmente estou aprendendo Postman para testes de API.
+- 👯 Procuro colaborar em projetos de garantia de qualidade, principalmente aqueles que envolvem automação de testes.
+- 🤔 Estou procurando ajuda com estratégias e ferramentas avançadas de automação de testes.
+- 💬 Pergunte-me sobre automação de testes, práticas de controle de qualidade, desenvolvimento Java e metodologias ágeis.
+- ⚡ Curiosidade: gosto de trabalhar em projetos que envolvam otimização de processos e soluções com análise de código e dados.
+- 🚴‍♂️ Mais sobre mim: Gosto de treinar Jiu-Jitsu, Muay Thai e andar de bicicleta.
 
 
 <div style="display: inline_block"><br>
